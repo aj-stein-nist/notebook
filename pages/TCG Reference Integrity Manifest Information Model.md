@@ -1,4 +1,6 @@
-SDO:: TCG
+SDO:: [[TCG]]
+Topic:: RIM
+Topic:: Attestation
 
 - / ![TCG_RIM_Model_v1p01_r0p16_pub.pdf](../assets/TCG_RIM_Model_v1p01_r0p16_pub_1703105444784_0.pdf)
 - ((658355b9-1f92-4448-9078-5cd5a56fd914))

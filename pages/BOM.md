@@ -1,0 +1,4 @@
+- CycloneDX
+- SPDX
+- SWID
+	- CoSWID
