@@ -1,9 +1,0 @@
-- [[ANSI]]
-- [[IEEE]]
-- [[ISO]]
-- [[OASIS]]
-- [[OMG]]
-- [[NISO]]
-- [[NIST]]
-- [[TCG]]
--
