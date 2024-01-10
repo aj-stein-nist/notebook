@@ -1,0 +1,41 @@
+sdo:: [[IETF]]
+topic:: [[Cryptography]], [[Serialization]]
+url:: https://datatracker.ietf.org/doc/rfc7517/
+![rfc7517.txt.pdf](../assets/rfc7517.txt_1703615336839_0.pdf)
+
+- Format Parameters
+	- ((658b1da3-6f4d-4a42-b9f7-93968ca4bf02))
+		- ((658b1db9-5995-436a-b1fb-4a6fde85a3d9))
+	- ((658b1dcd-306d-498e-9de0-9637446ec7b2))
+		- ((658b1dea-cefc-446d-9709-2bc0a6ff262f))
+		- ((658b1dfd-bef4-4818-a24a-79e90822c2b0))
+	- ((658b1e15-9bd0-4f6c-8262-f969e89e7ba5))
+		- ((658b1e2d-1030-430d-8767-e40d3326be25))
+		- ((658b1e3b-4bf3-4b24-b03e-29c7ce0ffa52))
+		- ((658b1e4f-dfc8-45fb-bb8e-f25c4d48a5c8))
+	- ((658b1e61-073d-4731-a08a-5a5cdebc52cf))
+		- ((658b1e7c-d612-487d-83f4-9a5afc747cd3))
+	- ((658b1e8a-f9ae-49e9-8dcd-63eca8d75139))
+		- ((658b1ea6-d814-4bb8-a8a4-99e4d86af71e))
+	- ((658b1ecc-8e06-430e-9100-27266c2f89c0))
+	  collapsed:: true
+		- ((658b1ee1-d9ad-443d-9332-46430803d9be))
+		- ((658b1eff-1582-4340-830c-18a2203e3f33))
+		- ((658b1f20-68a1-43c3-a0a8-55d3814e9917))
+	- ((658b1f31-0242-4032-a15b-5a4f9d6bee87))
+		- ((658b1f53-aa82-4c8c-a063-495da30e0e13))
+	- ((658b1f76-7d2a-4f06-89b3-72b28778091e))
+		- ((658b1f8a-7fa5-41e2-9c10-3e77a721977f))
+	- ((658b1fad-3fcb-4775-9ce3-7180699357cd))
+- ((658b1d5e-d4e8-4a06-9040-b36fbb763c4f))
+- ((658b1d75-a15e-4764-bf0f-88032ad7aac5))
+- ((658b1d82-ef2e-46d4-925a-8debe9f0bb99))
+- ((658b2019-3a4e-4fe8-9dd3-3be755a5b0df))
+	- ((658b2028-3570-493b-933c-0a865e80d5ab))
+- ((658b2059-48af-47b6-b17d-a693f7722dcf))
+- ((658b2075-ad20-4ca5-823c-2724e33b1904))
+	- ((658b2095-372e-4b91-94cb-a58a82cbd51e))
+	- ((658b20bb-60c5-472d-bc21-414dee67610e))
+- ((658b321c-3b0d-4b5d-8ae5-bb19d369b689))
+- ((658b322f-f484-43dc-be10-07cf279450f1))
+-

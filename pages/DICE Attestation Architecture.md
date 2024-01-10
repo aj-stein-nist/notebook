@@ -1,0 +1,79 @@
+sdo:: [[TCG]]
+topic:: [[Attestation]]
+
+- ![DICE-Attestation-Architecture-r23-final.pdf](../assets/DICE-Attestation-Architecture-r23-final_1704725025392_0.pdf)
+- ((659c0b19-ac3c-4841-bc2c-91f37127b9b0))
+- ((659c0b20-5400-4491-ba20-4f752f52dace))
+- ((659c0b31-8594-40db-b2cc-03ddd3c75640))
+- ((659c0b49-8ea5-4a09-a10b-ff6098225e90))
+- ((659c0c0a-d6c2-43d5-9cd9-cb229da4d674))
+	- ((659c0c27-53cf-4221-8a35-819a02348bb6))
+	- ((659c0c5f-1fcd-4ec4-a368-e60ab9fa27b6))
+		- ((659ee948-295f-4d6e-aa5f-f625ab12a458))
+		- Attester
+		- Endorser
+		- Verifier
+		- Verifier Owner
+		- Relying Party
+		- Relying Party Owner
+	- ((659eeb38-7bff-460c-989c-91957a4febf3))
+		- Evidence
+		- Appraisal Policy (for Evidence)
+		- Endorsements
+		- Attestation Results
+		- Appraisal Policy (for Attestation Results)
+		- Freshness
+	- ((659eeb9c-ef32-45e2-af79-32a2844e8426))
+		- Passport Model
+		- Background Check Model
+		- Multi-party Background Check Model
+	- ((659eebc5-2905-4d10-93e6-a8478a00448a))
+		- ((659eebda-5d6b-49cb-95cb-7bc699bf94e2))
+		- ((659eed25-82c4-4a85-8c38-08fce81bde26))
+			- Resource Manager Actor
+			- Composite Device Attestation
+			- Local Verifier
+			- Layered Device Attestation
+- ((659eed84-4972-4183-a023-775e27b109b1))
+	- ((659eeda6-7d76-43db-8a80-e8d44d009432))
+	- Evidence
+		- ((659eedbf-a189-46c1-bf13-faac7d1079ce))
+			- ((659eedfa-7c2e-4457-a564-f39972da9dd3))
+			- vendor – the entity that created the target TCB (e.g., a TCI value).
+			- model – the product name associated with the target TCB.
+			- version – the revision string associated with the target TCB.
+			- svn – the security version number associated with the target TCB.
+			- layer – the DICE layer associated with this measurement of the target TCB.
+			- index – a value that enumerates measurement of assets within the target TCB and DICE layer.
+			- type – a machine readable description of the measurement
+			- fwids – a list of FWID values resulting from applying the hashAlg function over the object being measured(e.g., target TCB elements used to compute TCI and CDI values). FWIDs are computed by the DICE layer that is the Attesting Environment and certificate Issuer.
+			- hashAlg – an algorithm identifier for the hash algorithm used to produce a digest value.
+			- digest – a digest of firmware, initialization values, or other settings of the target TCB.
+			- flags – a list of flags that enumerate potentially simultaneous operational states of the target TCB:
+				- (i) notConfigured,
+				- (ii) notSecure,
+				- (iii) recovery,
+				- (iv) debug. A value of 1 (TRUE) means the operational mode is active. A value of 0 (FALSE) means the operational state is not active. If the flags field is omitted, all flags are assumed to be 0 (FALSE).
+			- vendorInfo – vendor supplied values that encode vendor, model, or device specific state.
+			- ((659eeea3-1bc6-46e0-a64f-b95a2aea5024))
+		- ((659eeec6-0917-4d7c-be42-14db97cd660d))
+			- ((659eeed4-341e-40e2-aab5-37ed87f845fe))
+		- ((659ef0db-bb0d-484c-9f96-6ec79b5d1fbb))
+		- ((659ef0ee-7925-4e38-ab47-25edd1a46fd8))
+			- ((659ef148-825e-4cb5-bec9-8f9b15e3dc62))
+		- ((659ef162-bea5-4a6b-a66b-39bf9ae1dbb7))
+			- ((659ef341-6558-488d-a1c8-e2047e4f826a))
+			- ((659ef3b3-9885-47b3-9806-c29da05dbf1b))
+			- ((659ef3d2-4556-46d8-be84-fb86b7bcf50e))
+- ((659ef3e8-d86b-4c03-8c9a-1596cd4ce95a))
+	- ((659ef402-bcc9-45aa-88f4-a887e1b1a380))
+		- ((659ef416-06af-4e05-bec0-a899031ce9b2))
+	- ((659ef42f-c749-4701-9f18-bbf3419da0d2))
+		- ((659ef44a-4cb9-486e-a259-d63e7ce0b239))
+			- Regarding usage with FIPS-140: ((659ef47e-6000-438e-b283-7d2084e601da))
+		- ((659ef4a5-378e-48cf-8590-3b23b3602d9d))
+		- ((659ef4c4-4853-42a8-94a0-48971cd48db9))
+	- ((659ef4dc-cb27-4761-94ba-d55c3107562e))
+		- Freshness concerns
+		- Privacy concerns
+	-

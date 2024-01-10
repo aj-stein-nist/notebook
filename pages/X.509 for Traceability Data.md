@@ -1,0 +1,32 @@
+- ![jcise_017_01_011008.pdf](../assets/jcise_017_01_011008_1704900435323_0.pdf)
+- ((659eb773-b41c-4509-a267-d68593197217))
+- ((659eb796-f32a-41c5-af33-cf8bcbf72b89)) <- Where? At NIST ironically:
+	- [Complex Cyber-Physical Systems Working Group](https://pages.nist.gov/cpspwg/)
+	- [Digital Thread for Smart Manufacturing Project](https://github.com/aj-stein-nist/DT4SM/tree/master)
+- ((659eb974-8bd1-4c07-97df-147d10d8b20e))
+- Use case: FAA regulates aircraft manufacturers use CAD for their model and part management: ((659eb99a-371c-4392-a5d6-0b5edd60f5c6))
+- ((659eba5f-3bba-402d-9a10-3508898f29ff))
+	- Data AuthN, AuthZ, and Tracebility
+		- ((659eb9c9-a6b9-4a6e-85db-8519b727dc90))
+			- What product knowledge is created or represented?
+			- Who are the actors playing different roles in creating, using, or modifying product knowledge?
+			- Where is the product knowledge created and located?
+			- How is the product knowledge being created or modiﬁed?
+			- Why was certain product knowledge created or modiﬁed?
+			- When was the product knowledge created or modiﬁed?
+		- Can AuthN, AuthZ be separated? For these authors, no! ((659eba0e-6259-494f-aa88-9d86300d5fda))
+- Product Quality
+	- ((659eba49-8c6e-4df9-8d26-b5d2d56c5be3))
+	- ((659ebab9-d73e-4278-ba4e-607ff58687c9))
+- ((659ebb7d-79fc-4269-960d-6d293f7963b7))
+- Why X.509 and not others less technically rigorous solutions?
+	- ((659ebbce-ebb2-4841-8922-e220e74037a9))
+	- ((659ebbee-4fef-4c90-b465-b66abdcc7c59))
+	- ((659ebc0c-e803-4d35-98f4-dfbb7fb0c609))
+- ((659ebc2e-890b-453c-8332-df1b5a2b7026))
+	- ((659ebc21-6fab-4ffb-9eab-09af6824aba5))
+	- What are the different kinds of traceability?
+		- ((659ebc6b-4d4c-4c9e-b59f-e77d06927e9a))
+		- ((659ebca2-2a96-4c6c-8c00-5eb53d6bf72f))
+	- ((659ebd54-85fe-4a39-8312-1bfd2c4be958))
+	-
