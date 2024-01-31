@@ -1,0 +1,72 @@
+- ![A_Blockchain-Based_Framework_for_Supply_Chain_Provenance.pdf](../assets/A_Blockchain-Based_Framework_for_Supply_Chain_Provenance_1704983422337_0.pdf)
+  collapsed:: true
+	- ((659fff23-f0f5-4e7d-9195-74c581899196))
+	- ((659fffb8-81ce-49f3-9817-78598f9436ee))
+	- ((659fffd3-390e-4c54-8d54-42849783b2b6)) <- Upon reading paper, quantitative/qualitative explanation of "low-cost" is never provided.
+	- ((65a0002e-b682-466e-b841-1bf2deffacac))
+	- The primary strategies: standards, statistical measurement methods, on-chip sensors, unique physical markers: ((65a00056-2780-4d89-a108-5a48942b05c9))
+	- ((65a000bc-d076-41e0-8da8-6c4567503380))
+	- ((65a00122-13b9-4846-9d98-c656756594e3))
+	- ((65a00141-7b67-4f85-ae9c-b7a0ac4611dc))
+	- ((65a00165-8798-481d-96ed-b4ae809a63b4))
+	- ((65a0018c-e4d8-4556-b4f7-632b5c30f112))
+	- ((65a001f0-3273-4c09-a359-4bcdef0cfbb6))
+	- ((65a0022f-7573-4a6e-8da2-71d0d513f0ca))
+	- ((65a00297-9d2d-4a0c-b902-b7be4cf3a740)) <- cryptographically generate a significant number of device identifiers that are matched to real-world identification on the device proves identity with scaled hardware RoT.
+	- ((65a0030c-e8a9-4a19-96b6-c5e1ddb4d64d)) <- opportunity for cryptographic binding to prove that?
+	- ((65a0034f-19ad-4678-978b-488d485ee55e)) <- apparently JTAG access can be considered tamper-proof access?
+	- Example Hy
+	-
+	-
+	-
+- ![Heterogeneous Integration Supply Chain Integrity.pdf](../assets/Heterogeneous_Integration_Supply_Chain_Integrity_1705506671497_0.pdf)
+	- Key takeaway: ((65a7f9f6-fb40-4c7f-b065-e27bdb7d25ab))
+	- ((65a7f788-b996-43d7-8436-ec1b3c104b2e)) -> [[Chiplet]] is becoming more common.
+	- ((65a7f7b3-b7e0-4305-8827-d9a6f6985aa3)) -> [[Chiplet Hardware Security Module]] is an emerging hardware mitigation.
+	- ((65a7f89a-67ba-4169-b1b7-cc3590d9dfe1))
+	- ((65a7f8b3-0a55-4057-af48-a36dd9dc9272)) -> [[Hardware Counterfeiting]]
+	- ((65a7f8cf-988d-49bc-a342-6b8abf06fbc1)) -> [[Hardware Counterfeiting]]
+	- ((65a7f986-f989-4538-9385-7b3884de042b))
+	- ((65a7f998-fc55-4350-850f-2c065bd849ab)) -> new integration challenge in HW supply chain
+	- ((65a7f9ca-9bd4-408a-891d-51d1354d8244)) -> How was this hypothesis validated?
+	- ((65a7fa23-8b4e-489c-a17d-aa515b7c66f1)) -> More info on [[Electronic Chip ID]]
+	- ((65a7fa50-b040-4398-af77-fb1b873d4074))
+		- ((65a7fa45-e6ae-4e90-bd93-6d67057b8849))
+			- ((65a7fb74-d47b-4005-b393-a916592281a0))
+			- ((65a7fb89-7597-4457-ba9e-c3ca97025919))
+		- ((65a7fbb4-283c-421b-9c1c-126fcf882486))
+			- Recycled SiPs
+			- Remarked SiPs
+			- Out-of-spec SiPs
+			- Defective SiPs
+			- Cloned SiPs
+			- Overproduced interposers
+			- Forged documentation
+			- Substituted chiplets
+		- ((65a7fe53-4db4-479d-aaf4-87e02f7bb7f1))
+		- ((65a7febb-98c6-45e0-aad3-802a57382d56))
+			- ((65a7feda-93d0-49c8-a7d1-3a844aafa935))
+			- ((65a7fefd-582b-4762-b794-21300b0c08b3))
+			- ((65a7ff15-8353-44de-9ba3-a795fe2f3765))
+			- ((65a80027-029b-4bbb-8d7d-3056566a2454))
+			- ((65a80044-a122-44cf-b54d-81943c504eab))
+			- ((65a80053-ed65-46f6-ac78-d3b99c32d94a))
+		- ((65a80065-567c-4e5e-92b8-1edee47b2889))
+			- ((65a8007a-eb34-44d2-a929-f135ce67a8d6))
+			- ((65a801ca-1d34-4d72-8fd2-8fb7083dd085))
+			- ((65a801e1-4e8d-410c-acea-0e7317fee9d9))
+			- ((65a80212-f39e-4ce1-a875-d5fd26809690)) -> Could be [[DICE]] or is that too heavyweight?
+		- ((65a80264-9862-4240-bd23-769d8e3bb808))
+	- ((65a803c0-2112-45fd-b082-ad1b5a3c6945))
+		- ((65a80400-9783-4b16-8890-71f010d86b2a))
+			- ((65a803f5-f4af-4ce6-9dbe-97cea40aff4a))
+			- ((65a80410-4cb0-4121-b8c1-c96e4deb773b))
+			- ((65a804d5-7091-494c-b612-1c159fbe2896))
+			- ((65a804f1-5ae8-4319-813d-f42c42b067e3)) <- These examples are what we're looking for!
+		- ((65a80559-b7b8-46c0-98e2-d4c7248129be))
+		- ((65a8057c-ecb1-4459-8041-7c633893eaac))
+			- ((65a8058f-d2d4-4693-b858-3d932d69b600))
+	- ((65a80690-830a-459f-aa66-f08a3f4d8746))
+		- ((65a806a5-b84c-4f6c-a5ff-4677fdd4dadc))
+		- ((65a806bb-6d2d-4918-bf1f-4156c541ab37))
+		-

@@ -1,0 +1,4 @@
+- [[Chiplet Hardware Security Module]] for added security.
+- Universal Chiplet Interconnect Express (UCIe)
+	- ![UCIe_White_Paper_Final.pdf](../assets/UCIe_White_Paper_Final_1705509795866_0.pdf)
+	-

@@ -1,0 +1,3 @@
+- [IEEE explanation](https://grouper.ieee.org/groups/1149/1/ECID_Electronic_Chip_ID.html)
+- ![TIFS-2019.pdf](../assets/TIFS-2019_1705507905304_0.pdf)
+	- ((65a7fcbb-58cd-4e2a-8ebd-e110c279bc43))

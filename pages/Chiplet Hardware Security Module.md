@@ -1,0 +1,2 @@
+- [Farimah Farahmandi's Research, includes CHSM projects](https://farimah.ece.ufl.edu/research-projects/)
+-
